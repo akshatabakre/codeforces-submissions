@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 6 |
 
 ---
 
@@ -14,8 +14,9 @@
 
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dfs and similar](#dfs-and-similar) (1)
-- [greedy](#greedy) (2)
-- [math](#math) (2)
+- [dp](#dp) (1)
+- [greedy](#greedy) (3)
+- [math](#math) (3)
 - [number theory](#number-theory) (1)
 
 ---
@@ -32,12 +33,19 @@
 |---|---------|------------|----------|
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
+| 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.cpp) |
 
 ### math
 
@@ -45,6 +53,7 @@
 |---|---------|------------|----------|
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
+| 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.cpp) |
 
 ### number theory
 
