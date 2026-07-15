@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 5 |
+| 3 | 5 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dfs and similar](#dfs-and-similar) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
 
@@ -37,6 +37,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+| 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 
 ### math
 
