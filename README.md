@@ -6,20 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 9 |
+| 6 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
-- [dfs and similar](#dfs-and-similar) (2)
+- [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (1)
-- [graphs](#graphs) (1)
+- [graphs](#graphs) (2)
 - [greedy](#greedy) (3)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
-- [shortest paths](#shortest-paths) (1)
+- [shortest paths](#shortest-paths) (2)
 - [trees](#trees) (1)
 
 ---
@@ -35,6 +35,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
+| 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 
 ### dp
@@ -48,6 +49,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
+| 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
 
 ### greedy
 
@@ -76,6 +78,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
+| 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++17 (GCC 7-32)](https://github.com/akshatabakre/codeforces-submissions/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
 
 ### trees
 
